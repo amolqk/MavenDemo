@@ -8,7 +8,7 @@ public class TestClass {
 		
 		System.out.println("First Maven");
 		
-		System.out.println("Added Changes Maven");
+		System.out.println("Added Changes Maven1");
 	}
 
 }
