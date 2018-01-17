@@ -2,6 +2,11 @@ package DummyMavenProject.DummyMavenProject;
 
 public class TestClass {
 
+	
+	public void tempMethod() {
+		
+		System.out.println("THis is temp method in Branch");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
