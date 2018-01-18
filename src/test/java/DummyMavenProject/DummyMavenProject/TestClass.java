@@ -9,7 +9,7 @@ public class TestClass {
 	}
 	
 	
-	public void tempMethod1() {
+	public void tempMethodMaster() {
 		System.out.println("THis is temp method");
 		System.out.println("THis is temp method in Branch");
 	}
