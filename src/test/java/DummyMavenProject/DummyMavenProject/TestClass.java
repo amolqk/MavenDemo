@@ -15,7 +15,7 @@ public class TestClass {
 	
 	public void tempBranchMEthodToreviewPullRequest() {
 		
-		System.out.println("THis is temp method in Branch");
+		System.out.println("THis is temp Pull Request Testing");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
