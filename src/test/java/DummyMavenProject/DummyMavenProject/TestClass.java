@@ -10,8 +10,8 @@ public class TestClass {
 	
 	
 	public void tempMethodMaster() {
-		System.out.println("THis is temp method");
-		System.out.println("THis is temp method in Branch");
+		System.out.println("THis is temp method changes made by MAster");
+		
 	}
 	
 	public void tempMethodBranch() {
