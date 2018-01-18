@@ -7,6 +7,12 @@ public class TestClass {
 		System.out.println("THis is temp method");
 		System.out.println("THis is temp method in Branch");
 	}
+	
+	
+	public void tempMethod1() {
+		System.out.println("THis is temp method");
+		System.out.println("THis is temp method in Branch");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
