@@ -10,7 +10,8 @@ public class TestClass {
 	
 	
 	public void tempMethodMaster() {
-		System.out.println("THis is temp method changes made by MAster By Other USer");
+		System.out.println("THis is temp method changes made by MAster");
+		System.out.println("THis is temp method changes made by Branch");
 		
 	}
 	
@@ -21,7 +22,7 @@ public class TestClass {
 	
 	public void tempBranchMEthodToreviewPullRequest() {
 		
-		System.out.println("THis is temp method in Branch");
+		System.out.println("THis is temp Pull Request Testing");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
